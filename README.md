@@ -25,6 +25,11 @@ Estudante de **Sistemas de Informação** focado em desenvolvimento de software 
 
 ### 📈 Estatísticas do GitHub
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raynero1995&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raynero1995&layout=compact&theme=tokyonight" alt="Top Langs" />
+</div>
+
 
 
 ---
